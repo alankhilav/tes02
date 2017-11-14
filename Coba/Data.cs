@@ -88,7 +88,7 @@ namespace Coba
             }
             else
             {
-                return "Maaf kak, aku gak paham maksud kakak apa";
+                return "Maaf kak, aku gak paham maksud kakak";
             }
         }
     }
